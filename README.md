@@ -4,6 +4,7 @@
      Palette: #080B12 black · #142746 navy · #858B96 steel grey
               #E1E7EF primary text · #A9B4C5 secondary text · #39465A borders
      This file must live in a PUBLIC repository named exactly: Tlotleng-99/Tlotleng-99
+     Also required in the SAME repository (top level): tech-marquee.svg
      ============================================================ -->
 
 <!-- 1 · BANNER -->
@@ -58,15 +59,16 @@ Software engineering diploma student with a focus on **cloud computing** and a l
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39465A&height=2" alt="" width="100%" />
 
-<!-- 4 · TECHNICAL SKILLS -->
+<!-- 4 · TECHNICAL SKILLS (scrolling row — needs tech-marquee.svg in the repository root) -->
 <h2 align="center">Technical Skills</h2>
 
 <div align="center">
-  <img src="assets/tech-marquee.svg" alt="Technologies: Java, Python, VB.NET, JavaScript, SQL, HTML, CSS, AWS, Git" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/tech-marquee.svg" alt="Technologies: Java, Python, VB.NET, JavaScript, SQL, HTML, CSS, AWS, Git" width="100%" />
 </div>
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39465A&height=2" alt="" width="100%" />
+
 <!-- 5 · GITHUB STATISTICS -->
 <h2 align="center">GitHub Statistics</h2>
 
@@ -93,7 +95,7 @@ Software engineering diploma student with a focus on **cloud computing** and a l
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39465A&height=2" alt="" width="100%" />
 
-<!-- 6 · FEATURED PROJECTS -->
+<!-- 6 · FEATURED PROJECTS (both repository names verified) -->
 <h2 align="center">Featured Projects</h2>
 
 <table align="center" width="100%">
