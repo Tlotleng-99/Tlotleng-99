@@ -47,7 +47,7 @@ Software engineering diploma student with a focus on **cloud computing** and a l
       </p>
     </td>
     <td width="45%" valign="top">
-      <b>Studying</b> &nbsp;·&nbsp; Diploma in Software Engineering<br />
+      <b>Studying</b> &nbsp;·&nbsp; Software Engineering, IT &amp; Computer Science<br />
       <b>Direction</b> &nbsp;·&nbsp; Aspiring Cloud Security Architect<br />
       <b>Languages</b> &nbsp;·&nbsp; Java, Python, VB.NET, JavaScript<br />
       <b>Web</b> &nbsp;·&nbsp; HTML, CSS<br />
@@ -127,24 +127,30 @@ Software engineering diploma student with a focus on **cloud computing** and a l
      Certifications are intentionally omitted until you have earned and can link one. -->
 <h2 align="center">Education</h2>
 
-<div align="center">
-
-**Diploma in Software Engineering**
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <b>Software Engineering</b><br />
+      WeThinkCode_
+    </td>
+    <td width="50%" valign="top" align="center">
+      <b>Information Technology &amp; Computer Science</b><br />
+      EWC
+    </td>
+  </tr>
+</table>
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
 
-<!-- 8 · CONTACT & SOCIAL LINKS
-     To add LinkedIn or email later, copy this pattern inside the div below:
-     <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0B1F3D?style=for-the-badge&logo=linkedin&logoColor=6C9FD0&labelColor=0B1F3D" alt="LinkedIn" /></a>
-     <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0B1F3D?style=for-the-badge&logo=gmail&logoColor=6C9FD0&labelColor=0B1F3D" alt="Email" /></a>
--->
+<!-- 8 · CONTACT & SOCIAL LINKS -->
 <h2 align="center">Contact</h2>
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/kuseni-tlotleng-950080318">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1F3D?style=for-the-badge&logo=linkedin&logoColor=6C9FD0&labelColor=0B1F3D" alt="LinkedIn" />
+</a>
 <a href="https://github.com/Tlotleng-99">
   <img src="https://img.shields.io/badge/GitHub-0B1F3D?style=for-the-badge&logo=github&logoColor=6C9FD0&labelColor=0B1F3D" alt="GitHub" />
 </a>
