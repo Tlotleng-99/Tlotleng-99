@@ -48,7 +48,8 @@ Software engineering diploma student with a focus on **cloud computing** and a l
     <td width="45%" valign="top">
       <b>Studying</b> &nbsp;·&nbsp; Diploma in Software Engineering<br />
       <b>Direction</b> &nbsp;·&nbsp; Aspiring Cloud Security Architect<br />
-      <b>Languages</b> &nbsp;·&nbsp; Java, Python<br />
+      <b>Languages</b> &nbsp;·&nbsp; Java, Python, VB.NET, JavaScript<br />
+      <b>Web</b> &nbsp;·&nbsp; HTML, CSS<br />
       <b>Cloud &amp; Data</b> &nbsp;·&nbsp; AWS, SQL<br />
       <b>Tooling</b> &nbsp;·&nbsp; Git
     </td>
@@ -65,7 +66,13 @@ Software engineering diploma student with a focus on **cloud computing** and a l
 **Languages**<br />
 <img src="https://img.shields.io/badge/Java-142746?style=flat-square&logo=openjdk&logoColor=A9B4C5&labelColor=142746" alt="Java" />
 <img src="https://img.shields.io/badge/Python-142746?style=flat-square&logo=python&logoColor=A9B4C5&labelColor=142746" alt="Python" />
+<img src="https://img.shields.io/badge/VB.NET-142746?style=flat-square&logo=dotnet&logoColor=A9B4C5&labelColor=142746" alt="VB.NET" />
+<img src="https://img.shields.io/badge/JavaScript-142746?style=flat-square&logo=javascript&logoColor=A9B4C5&labelColor=142746" alt="JavaScript" />
 <img src="https://img.shields.io/badge/SQL-142746?style=flat-square&labelColor=142746" alt="SQL" />
+
+**Web**<br />
+<img src="https://img.shields.io/badge/HTML-142746?style=flat-square&logo=html5&logoColor=A9B4C5&labelColor=142746" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-142746?style=flat-square&logo=css3&logoColor=A9B4C5&labelColor=142746" alt="CSS" />
 
 **Cloud**<br />
 <img src="https://img.shields.io/badge/AWS-142746?style=flat-square&logo=amazonwebservices&logoColor=A9B4C5&labelColor=142746" alt="AWS" />
