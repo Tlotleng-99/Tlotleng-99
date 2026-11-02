@@ -4,7 +4,7 @@ Design: "Midnight Cobalt" (derived from the profile picture)
 Palette: #050912 ink · #0B1F3D navy · #6C9FD0 cobalt accent
 #DCE8F5 primary text · #9DB4CE secondary text · #23446E borders
 This file must live in a PUBLIC repository named exactly: Tlotleng-99/Tlotleng-99
-Also required in the SAME repository (top level): banner.svg, heartbeat.svg, h-*.svg heading files and tech-marquee.svg
+Also required in the SAME repository (top level): banner.svg and tech-marquee.svg
 ============================================================ -->
 
 <!-- 1 · BANNER (animated, Cybotronian; needs banner.svg in the repository root) -->
@@ -30,9 +30,9 @@ Software engineering diploma student with a focus on **cloud computing** and a l
 <br />
 
 <!-- 3 · ABOUT ME -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/h-about.svg" alt="About Me" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
+
+<h2 align="center">About Me</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -58,10 +58,8 @@ software engineering foundations with a security-minded approach to the cloud.
 </table>
 
 
-<!-- 4 · TECHNICAL SKILLS (Cybotronian heading + scrolling row; needs h-skills.svg and tech-marquee.svg in the repository root) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/h-skills.svg" alt="Technical Skills" width="100%" />
-</div>
+<!-- 4 · TECHNICAL SKILLS (scrolling row; needs tech-marquee.svg in the repository root) -->
+<h2 align="center">Technical Skills</h2>
 
 
 <div align="center">
@@ -71,9 +69,9 @@ software engineering foundations with a security-minded approach to the cloud.
 <br />
 
 <!-- 5 · GITHUB STATISTICS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/h-stats.svg" alt="GitHub Statistics" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
+
+<h2 align="center">GitHub Statistics</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -98,9 +96,9 @@ software engineering foundations with a security-minded approach to the cloud.
 
 
 <!-- 6 · FEATURED PROJECTS (both repository names verified) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/h-projects.svg" alt="Featured Projects" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
+
+<h2 align="center">Featured Projects</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -128,9 +126,9 @@ Collaborative developer learning platform<br />
 
 <!-- 7 · EDUCATION & CERTIFICATIONS
 Certifications are intentionally omitted until you have earned and can link one. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/h-education.svg" alt="Education" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
+
+<h2 align="center">Education</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -148,9 +146,9 @@ EWC
 <br />
 
 <!-- 8 · CONTACT & SOCIAL LINKS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/h-contact.svg" alt="Contact" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
+
+<h2 align="center">Contact</h2>
 
 <div align="center">
 
@@ -170,4 +168,4 @@ EWC
 <br />
 
 <!-- FOOTER -->
-<img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/heartbeat.svg" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3D&height=60&section=footer" alt="" width="100%" />
