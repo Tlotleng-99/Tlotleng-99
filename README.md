@@ -4,12 +4,12 @@ Design: "Midnight Cobalt" (derived from the profile picture)
 Palette: #050912 ink · #0B1F3D navy · #6C9FD0 cobalt accent
 #DCE8F5 primary text · #9DB4CE secondary text · #23446E borders
 This file must live in a PUBLIC repository named exactly: Tlotleng-99/Tlotleng-99
-Also required in the SAME repository (top level): banner.svg and tech-marquee.svg
+Also required in the SAME repository (top level): banner.svg, tech-header.svg and tech-marquee.svg
 ============================================================ -->
 
-<!-- 1 · BANNER (animated; needs banner.svg in the repository root) -->
+<!-- 1 · BANNER (animated, Cybotronian; needs banner.svg in the repository root) -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/banner.svg" alt="TLOTLENG — Aspiring Cloud Security Architect · Software Engineering. “Built Different. Wired for Code.”" width="100%" />
+<img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/banner.svg" alt="TLOTLENG in Cybotronian glyphs. Aspiring Cloud Security Architect · Software Engineering. Built Different. Wired for Code." width="100%" />
 </div>
 
 <br />
@@ -58,8 +58,11 @@ software engineering foundations with a security-minded approach to the cloud.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=23446E&height=2" alt="" width="100%" />
 
-<!-- 4 · TECHNICAL SKILLS (scrolling row — needs tech-marquee.svg in the repository root) -->
-<h2 align="center">Technical Skills</h2>
+<!-- 4 · TECHNICAL SKILLS (Cybotronian heading + scrolling row; needs tech-header.svg and tech-marquee.svg in the repository root) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/tech-header.svg" alt="Technical Skills" width="100%" />
+</div>
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tlotleng-99/Tlotleng-99/main/tech-marquee.svg" alt="Technologies: Java, Python, VB.NET, JavaScript, SQL, HTML, CSS, AWS, Git" width="100%" />
