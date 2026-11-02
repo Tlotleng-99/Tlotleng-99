@@ -62,29 +62,11 @@ Software engineering diploma student with a focus on **cloud computing** and a l
 <h2 align="center">Technical Skills</h2>
 
 <div align="center">
-
-**Languages**<br />
-<img src="https://img.shields.io/badge/Java-142746?style=flat-square&logo=openjdk&logoColor=A9B4C5&labelColor=142746" alt="Java" />
-<img src="https://img.shields.io/badge/Python-142746?style=flat-square&logo=python&logoColor=A9B4C5&labelColor=142746" alt="Python" />
-<img src="https://img.shields.io/badge/VB.NET-142746?style=flat-square&logo=dotnet&logoColor=A9B4C5&labelColor=142746" alt="VB.NET" />
-<img src="https://img.shields.io/badge/JavaScript-142746?style=flat-square&logo=javascript&logoColor=A9B4C5&labelColor=142746" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-142746?style=flat-square&labelColor=142746" alt="SQL" />
-
-**Web**<br />
-<img src="https://img.shields.io/badge/HTML-142746?style=flat-square&logo=html5&logoColor=A9B4C5&labelColor=142746" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-142746?style=flat-square&logo=css3&logoColor=A9B4C5&labelColor=142746" alt="CSS" />
-
-**Cloud**<br />
-<img src="https://img.shields.io/badge/AWS-142746?style=flat-square&logo=amazonwebservices&logoColor=A9B4C5&labelColor=142746" alt="AWS" />
-
-**Tools**<br />
-<img src="https://img.shields.io/badge/Git-142746?style=flat-square&logo=git&logoColor=A9B4C5&labelColor=142746" alt="Git" />
-
+  <img src="assets/tech-marquee.svg" alt="Technologies: Java, Python, VB.NET, JavaScript, SQL, HTML, CSS, AWS, Git" width="100%" />
 </div>
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39465A&height=2" alt="" width="100%" />
-
 <!-- 5 · GITHUB STATISTICS -->
 <h2 align="center">GitHub Statistics</h2>
 
