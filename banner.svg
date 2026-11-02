@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="TLOTLENG — Aspiring Cloud Security Architect · Software Engineering. Built Different. Wired for Code.">
+  <title>TLOTLENG — Aspiring Cloud Security Architect · Software Engineering</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050912"/>
+      <stop offset="1" stop-color="#0B1F3D"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#6C9FD0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6C9FD0" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6C9FD0" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="240" rx="12"/></clipPath>
+    <style>
+      text { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .name { font-size: 76px; font-weight: 700; letter-spacing: 14px; fill: #DCE8F5; }
+      .role { font-size: 20px; fill: #9DB4CE; letter-spacing: 1px; }
+      .tag  { font-size: 16px; fill: #6C9FD0; letter-spacing: 3px; font-family: "Courier New", monospace; }
+      .grid { stroke: #23446E; stroke-width: 1; opacity: 0.35; }
+      .sweep { animation: sweep 6s ease-in-out infinite; }
+      .fade1 { animation: fadein 1.2s ease-out both; }
+      .fade2 { animation: fadein 1.2s ease-out 0.4s both; }
+      .fade3 { animation: fadein 1.2s ease-out 0.8s both; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes sweep  { 0% { transform: translateX(-1200px); } 100% { transform: translateX(1200px); } }
+      @keyframes fadein { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes blink  { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .sweep, .fade1, .fade2, .fade3, .cursor { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="url(#bg)"/>
+    <g class="grid">
+      <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200"/>
+      <path d="M100 0V240M200 0V240M300 0V240M400 0V240M500 0V240M600 0V240M700 0V240M800 0V240M900 0V240M1000 0V240M1100 0V240"/>
+    </g>
+    <rect class="sweep" x="0" y="118" width="1200" height="2" fill="url(#shine)"/>
+    <text class="name fade1" x="600" y="110" text-anchor="middle">TLOTLENG</text>
+    <text class="role fade2" x="600" y="150" text-anchor="middle">Aspiring Cloud Security Architect · Software Engineering</text>
+    <text class="tag fade3" x="600" y="196" text-anchor="middle">Built Different. Wired for Code.<tspan class="cursor">_</tspan></text>
+    <rect x="0" y="238" width="1200" height="2" fill="#23446E"/>
+  </g>
+</svg>
